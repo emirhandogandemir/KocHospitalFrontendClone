@@ -1,2 +1,2 @@
 # Koc-University-Hospital-Clonee
-Proje frontendi tamamlanacaktır ...
+
